@@ -135,9 +135,6 @@ python train.py -s data_path -m out_path --max_abs_split_points 0 --opacity_cull
 # Rendering and Extract Mesh
 python render.py -m out_path --max_depth 10.0 --voxel_size 0.01
 ```
-# 进度
-
-
 
   title={PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction},
   author={Chen, Danpeng and Li, Hai and Ye, Weicai and Wang, Yifan and Xie, Weijian and Zhai, Shangjin and Wang, Nan and Liu, Haomin and Bao, Hujun and Zhang, Guofeng},
@@ -145,3 +142,16 @@ python render.py -m out_path --max_depth 10.0 --voxel_size 0.01
   year={2024}
 }
 ```
+# 进度
+3.8
+
+
+
+
+
+
+
+
+
+
+
